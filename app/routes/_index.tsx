@@ -32,7 +32,7 @@ export default function Index() {
         </li>
         <li>
           <a target="_blank" href="https://remix.run/docs" rel="noreferrer">
-            Remix Docs Samala
+            Remix Docs Samala master branch
           </a>
         </li>
       </ul>
