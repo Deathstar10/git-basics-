@@ -27,10 +27,11 @@ export default function Index() {
             href="https://remix.run/tutorials/jokes"
             rel="noreferrer"
           >
-            Deep Dive Jokes App Tutorial Aravind
+            Deep Dive Jokes App Tutorial Aravind 
           </a>
         </li>
         <li>
+          <p>remote</p>
           <a target="_blank" href="https://remix.run/docs" rel="noreferrer">
             Remix Docs Samala master branch
           </a>
