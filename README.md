@@ -27,6 +27,7 @@ npm start
 Now you'll need to pick a host to deploy it to.
 
 ### DIY
+
 hello world
 
 If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
@@ -35,5 +36,5 @@ Make sure to deploy the output of `npm run build`
 
 - `build/server`
 - `build/client`
-hello world
-hello master
+  hello world
+  hello login
