@@ -35,6 +35,7 @@ export default function Index() {
           <a target="_blank" href="https://remix.run/docs" rel="noreferrer">
             Remix Docs Samala master branch
           </a>
+          <p>commit from my local</p>
         </li>
       </ul>
     </div>
